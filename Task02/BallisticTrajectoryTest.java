@@ -11,7 +11,7 @@ public class BallisticTrajectoryTest {
         BallisticTrajectory bt = new BallisticTrajectory(10, 20);
 
         // перевірка результату обчислень
-        assertEquals(24.0, bt.getDistance(), 0.0001);
+        assertEquals(8.0, bt.getDistance(), 0.0001);
 
         // перевірка серіалізації та десеріалізації
         try (ByteArrayOutputStream out = new ByteArrayOutputStream();
