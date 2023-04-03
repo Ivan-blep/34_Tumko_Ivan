@@ -5,4 +5,4 @@
 ## Task02
 
 ![task02_1](Task02/task02_1.png)
-![task02_1](Task02/task02_2.png)
+![task02_2](Task02/task01_2.png)
