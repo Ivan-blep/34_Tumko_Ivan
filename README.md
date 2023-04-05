@@ -38,7 +38,7 @@ BallisticTrajectoryDemo.java:
 Main.java:
 ![task03_1](Task03/task03_1.png)
 
-BallisticTrajectoryDemo.java:
+Всі класи:
 
 ![task03_2](Task03/task03_2.png)
 
