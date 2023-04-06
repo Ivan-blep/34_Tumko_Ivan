@@ -2,6 +2,7 @@
 * [Task02](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task02)
 * [Task03](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task03)
 * [Task04](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task04)
+* [Task04](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task05)
 
 
 
@@ -70,4 +71,22 @@ Main.java:
 Всі класи:
 
 ![task04_2](Task04/task04_02.png)
+
+## Task05
+#### Завдання:
+
+1. Реалізувати можливість скасування (undo) операцій (команд).
+2. Продемонструвати поняття "макрокоманда"
+3.При розробці програми використовувати шаблон Singletone.
+4. Забезпечити діалоговий інтерфейс із користувачем.
+5.Розробити клас для тестування функціональності програми.
+
+### Результат виконання:
+
+Main.java:
+![task05_1](Task05/task05_01.png)
+
+Всі класи:
+
+![task05_2](Task05/task05_02.png)
 
