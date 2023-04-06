@@ -1,7 +1,7 @@
-* Task01
-* Task02
-* Task03
-* Task04
+* [Task01](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task01)
+* [Task02](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task02)
+* [Task03](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task03)
+* [Task04](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task04)
 
 
 
