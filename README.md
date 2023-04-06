@@ -2,7 +2,7 @@
 * [Task02](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task02)
 * [Task03](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task03)
 * [Task04](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task04)
-* [Task04](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task05)
+* [Task05](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task05)
 
 
 
