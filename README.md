@@ -3,6 +3,7 @@
 * [Task03](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task03)
 * [Task04](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task04)
 * [Task05](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task05)
+* [Task06](https://github.com/Ivan-blep/34_Tumko_Ivan/edit/main/README.md#task06)
 
 
 
@@ -89,4 +90,17 @@ Main.java:
 Всі класи:
 
 ![task05_2](Task05/task05_02.png)
+
+## Task05
+#### Завдання:
+
+1. Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).
+
+2. Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+
+### Результат виконання:
+
+Main.java:
+![task06](Task06/task06.png)
+
 
